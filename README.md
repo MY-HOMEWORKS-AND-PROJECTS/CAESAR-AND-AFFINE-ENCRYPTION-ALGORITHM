@@ -1,1 +1,1 @@
-# Sezar_ve_Afin_Sifreleme_Algoritmasi(C#)
+# CAESAR-AND-AFFINE-ENCRYPTION-ALGORITHM
